@@ -1,0 +1,6 @@
+[submodule "external/opencv"]
+	path = external/opencv
+	url = https://github.com/opencv/opencv.git
+[submodule "external/onnxruntime"]
+	path = external/onnxruntime
+	url = https://github.com/Microsoft/onnxruntime.git
