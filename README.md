@@ -1,7 +1,6 @@
 # infera
 
-This is the repo for the white balance project of Pythera firm.
-
+This is the repo for OnnxRuntime custom.
 ## How to use
 
 1. Clone the repo
