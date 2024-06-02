@@ -25,3 +25,25 @@ Copyright &copy; 2024 [Hieu Pham](https://github.com/hieupth). All rights reserv
 
 ## Why this name, Cinnamon?
 Well, I have a lot of memories associated with cups of hot cinnamon milk tea with my muse in Da Lat, so I decided to write some cool things associated with it, especially the lines of code in my mind.
+
+## Project structure
+```
+.
++- docs           // Documents
++- includes       // Public header files
++- lib            // 3rd libraries
++- cmake          // Cmake config files
++- src            // Source code tree
+|  +- headers     // Header files
+|  +- modules     // Platform-independent source
+|  +- blindings   // Bindings to other languages
+|  |  +- rust
+|  |  +- python
+|  |  +- ...
+|  +- platforms   // Platform-specific code
+|  |  +- ios
+|  |  +- android
+|  |  +- ...
++- tests          // Automated test scripts
++- tools          // Development utilities
+```
