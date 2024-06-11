@@ -1,5 +1,5 @@
 #include <iostream>
-#include "core.h"
+#include <core.h>
 #include <onnxruntime_cxx_api.h>
 
 using namespace cinrt::model;
