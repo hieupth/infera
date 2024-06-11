@@ -12,3 +12,10 @@ _deps
 build
 models
 .vscode
+cinnamon.egg-info
+dist
+CPackConfig.cmake
+CPackSourceConfig.cmake
+managerServiceTest
+managerTest
+modelTest
